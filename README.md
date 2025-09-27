@@ -8,7 +8,7 @@
 
 -<a href="https://github.com/luthfi13wa"><img src="https://avatars.githubusercontent.com/u/luthfi13wa?v=4" width="40px;" alt="luthfi13wa"/></a>
 
-MMR Picture for 3D model
+MMR Picture for the 3D model
 
 ![WhatsApp Image 2025-06-04 at 08 23 16_9937585c](https://github.com/user-attachments/assets/3e2b0736-caa7-4bc6-916b-3da220a51a37)
 ![46f77956680b7c67f7da8c838d6cfa54](https://github.com/user-attachments/assets/42ee2730-f1c1-4865-a79d-762842ac614d)
